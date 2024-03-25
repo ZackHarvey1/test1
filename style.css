@@ -20,4 +20,8 @@ h1 {
 
 .header {
     text-align: center;
+    color: red;
+    font-size: 40px;
+    font-family: Fantasy;
 }
+
