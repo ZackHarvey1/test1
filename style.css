@@ -25,6 +25,6 @@ h2 {
     font-family: Fantasy;
 }
 
-.header :hover {
+h2 :hover {
     color: skyblue;
 }
