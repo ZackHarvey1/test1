@@ -28,3 +28,7 @@ h1 {
 .header :hover {
     color: skyblue;
 }
+
+.align {
+    align-content: center;
+}
