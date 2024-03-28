@@ -1,17 +1,17 @@
 h1 {
-    color: blueviolet
+    color: blueviolet;
 }
 
 .orange {
-    color:orange
+    color:orange;
 }
 
 .blue {
-    color:blue
+    color:blue;
 }
 
 .green {
-    color:green
+    color:green;
 }
 #change {
     font-family: 'Times New Roman', Times, serif;
@@ -22,7 +22,7 @@ h1 {
     text-align: center;
     color: red;
     font-size: 40px;
-    font-family: Fantasy;
+    font-family: fantasy;
 }
 
 .header :hover {
